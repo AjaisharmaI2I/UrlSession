@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "291977A6-9FCB-46DF-8624-EFA5670EC737"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29EB71D1-2678-4E09-BC55-B0C086D71252"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Session/SessionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchAPIResponse(myCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29EB71D1-2678-4E09-BC55-B0C086D71252 - 5a0816965578095e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Session.SessionViewModel.fetchAPIResponse(myCompletionHandler: (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Session.Article&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Session"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ideas2it/Desktop/Ajai%20Training/Session/Session/SessionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "29EB71D1-2678-4E09-BC55-B0C086D71252 - 5a0816965578095e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Session.SessionViewModel.fetchAPIResponse(myCompletionHandler: (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Session.Article&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Session"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ideas2it/Desktop/Ajai%20Training/Session/Session/SessionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB75DB8D-960E-4C8C-97B2-436CB84D8205"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Session/SessionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchAPIResponse(myCompletionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
